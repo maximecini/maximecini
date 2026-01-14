@@ -1,15 +1,11 @@
-# <img src="https://raw.githubusercontent.com/Tarik-S/Tarik-S/master/assets/images/header_v2.gif" width="45px"> Renaud | Embedded Systems Engineer
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=200&section=header&text=RENAUD&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
-</div>
+# Renaud | Embedded Systems Engineer
 
 <br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_MISSIONS-00FF99?style=for-the-badge&logo=target&logoColor=black" />
   <img src="https://img.shields.io/badge/FOCUS-EMBEDDED_SYSTEMS-blue?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCATION-LYON%20/%20REMOTE-white?style=for-the-badge&logo=googlemaps&logoColor=red" />
+  <img src="https://img.shields.io/badge/LOCATION-PARIS%20/%20INTERNATIONAL-white?style=for-the-badge&logo=googlemaps&logoColor=red" />
 </div>
 
 ---
@@ -17,7 +13,7 @@
 ### 👨‍💻 À propos de moi
 Passionné par l'interaction entre le code et le hardware. Je me spécialise dans le **développement bas-niveau**, l'optimisation de performance et les systèmes temps réel (RTOS).
 
-Actuellement à la recherche d'une **Alternance, CDI ou CDD** dans le domaine de l'**Embarqué**.
+Actuellement à la recherche d'une **Alternance, CDI ou CDD** dans le domaine de l'**Embarqué**, ouvert aux opportunités en **France (Paris) et à l'International**.
 
 > *« Si tu peux le rêver, tu peux le coder... surtout si c'est en C. »*
 
