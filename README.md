@@ -6,7 +6,7 @@
 |_| \_\_____|_| \_/_/   \_\___/|_|____/
 ```
 
-# 🚀 Renaud | Embedded Systems Engineer
+# 🎀 Renaud | Embedded Systems Engineer
 
 <div align="center">
 
@@ -29,11 +29,11 @@
 Je suis en recherche d'une **Alternance, CDI ou CDD** en développement embarqué.
 
 Spécialités :
-- 🎯 **Low-Level Development** : C, C++, Assembly
+- 🧿 **Low-Level Development** : C, C++, Assembly
 - 🧵 **Concurrency & Synchronization** : Pthreads, Mutex, Condition Variables
 - 🔌 **Systems Architecture** : Unix/Linux kernels, RTOS, Real-time systems
 - 💾 **Memory Management** : Buffer optimization, heap fragmentation, FD mastery
-- 🚀 **Performance Tuning** : Algorithm optimization under resource constraints
+- 🤝 **Performance Tuning** : Algorithm optimization under resource constraints
 
 Ouvert à des opportunités en **France (Paris) et à l'International**.
 
