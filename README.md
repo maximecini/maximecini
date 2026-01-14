@@ -1,15 +1,15 @@
-# <img src="https://raw.githubusercontent.com/Tarik-S/Tarik-S/master/assets/images/header_v2.gif" width="45px"> Renaud | Embedded Systems Engineer
+# <img src="https://raw.githubusercontent.com/Tarik-S/Tarik-S/master/assets/images/header_v2.gif" width="45px" style="pointer-events: none; cursor: default;"> Renaud | Embedded Systems Engineer
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=200&section=header&text=RENAUD&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+<div align="center" style="pointer-events: none;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=200&section=header&text=RENAUD&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" style="pointer-events: none; cursor: default;" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_MISSIONS-00FF99?style=for-the-badge&logo=target&logoColor=black" />
-  <img src="https://img.shields.io/badge/FOCUS-EMBEDDED_SYSTEMS-blue?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCATION-PARIS%20/%20INTERNATIONAL-white?style=for-the-badge&logo=googlemaps&logoColor=red" />
+<div align="center" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_MISSIONS-00FF99?style=for-the-badge&logo=target&logoColor=black" style="pointer-events: none; cursor: default;" />
+  <img src="https://img.shields.io/badge/FOCUS-EMBEDDED_SYSTEMS-blue?style=for-the-badge&logo=cpu&logoColor=white" style="pointer-events: none; cursor: default;" />
+  <img src="https://img.shields.io/badge/LOCATION-PARIS%20/%20INTERNATIONAL-white?style=for-the-badge&logo=googlemaps&logoColor=red" style="pointer-events: none; cursor: default;" />
 </div>
 
 ---
@@ -25,6 +25,7 @@ Actuellement à la recherche d'une **Alternance, CDI ou CDD** dans le domaine de
 
 ### 🛠 L'Arsenal Technique
 
+<div style="pointer-events: none;">
 <table align="center">
   <tr>
     <td align="center" width="150">
@@ -38,6 +39,7 @@ Actuellement à la recherche d'une **Alternance, CDI ou CDD** dans le domaine de
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -64,15 +66,15 @@ Voici un aperçu de mes travaux, axés sur la maîtrise de la mémoire et des ar
 
 ### 📊 Données de bord (Télémesure)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximecini&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximecini&layout=compact&theme=tokyonight&hide_border=true" height="190" />
+<div align="center" style="pointer-events: none;">
+  <img src="https://github-readme-stats.vercel.app/api?username=maximecini&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="190" style="pointer-events: none; cursor: default;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximecini&layout=compact&theme=tokyonight&hide_border=true" height="190" style="pointer-events: none; cursor: default;" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximecini&theme=tokyonight&hide_border=true" />
+<div align="center" style="pointer-events: none;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximecini&theme=tokyonight&hide_border=true" style="pointer-events: none; cursor: default;" />
 </div>
 
 ---
