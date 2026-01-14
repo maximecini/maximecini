@@ -10,9 +10,9 @@
 
 <div align="center">
 
-  [![STATUS](https://img.shields.io/badge/STATUS-OPEN_FOR_MISSIONS-00D9FF?style=flat-square&labelColor=0A1428&color=00D9FF)](javascript:void(0))
-  [![FOCUS](https://img.shields.io/badge/FOCUS-EMBEDDED_SYSTEMS-00FF88?style=flat-square&labelColor=0A1428&color=00FF88)](javascript:void(0))
-  [![LOCATION](https://img.shields.io/badge/LOCATION-PARIS_/_INTERNATIONAL-FF006E?style=flat-square&labelColor=0A1428&color=FF006E)](javascript:void(0))
+  ![STATUS](https://img.shields.io/badge/STATUS-OPEN_FOR_MISSIONS-00D9FF?style=flat-square&labelColor=0A1428&color=00D9FF)
+  ![FOCUS](https://img.shields.io/badge/FOCUS-EMBEDDED_SYSTEMS-00FF88?style=flat-square&labelColor=0A1428&color=00FF88)
+  ![LOCATION](https://img.shields.io/badge/LOCATION-PARIS_/_INTERNATIONAL-FF006E?style=flat-square&labelColor=0A1428&color=FF006E)
 
   ---
 
