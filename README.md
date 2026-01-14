@@ -106,7 +106,6 @@ Ouvert à des opportunités en **France (Paris) et à l'International**.
 | 🔟 | **[piscine_cpp](https://github.com/maximecini/piscine_cpp)** | C++ OOP | Héritage, templates, RTTI | `C++` |
 | 1️⃣1️⃣ | **[piscine_reload](https://github.com/maximecini/piscine_reload)** | Révisions Système | Consolidation bases Unix | `C` |
 | 1️⃣2️⃣ | **[Piscine](https://github.com/maximecini/Piscine)** | Bootcamp 42 | Algorithmie, Shell basics | `C`, `Shell` |
-| 1️⃣3️⃣ | **[maximecini](https://github.com/maximecini/maximecini)** | README Profil | Landing page stylisée | `Markdown`, `HTML/CSS` |
 
 ---
 
