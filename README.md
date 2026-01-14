@@ -1,4 +1,8 @@
-# Renaud | Embedded Systems Engineer
+# <img src="https://raw.githubusercontent.com/Tarik-S/Tarik-S/master/assets/images/header_v2.gif" width="45px"> Renaud | Embedded Systems Engineer
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=200&section=header&text=RENAUD&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
 
 <br>
 
@@ -24,13 +28,13 @@ Actuellement à la recherche d'une **Alternance, CDI ou CDD** dans le domaine de
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=c,cpp,asm" /><br><b>Langages</b>
+      <img src="https://skillicons.dev/icons?i=c,cpp,asm" style="pointer-events: none; cursor: default;" /><br><b>Langages</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino" /><br><b>Systèmes</b>
+      <img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino" style="pointer-events: none; cursor: default;" /><br><b>Systèmes</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=docker,githubactions,git" /><br><b>DevOps</b>
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,git" style="pointer-events: none; cursor: default;" /><br><b>DevOps</b>
     </td>
   </tr>
 </table>
