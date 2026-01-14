@@ -1,78 +1,91 @@
-# 🕶️ Mode Furtiste : Maxime Cini
+# <img src="https://raw.githubusercontent.com/Tarik-S/Tarik-S/master/assets/images/header_v2.gif" width="45px"> Renaud | Embedded Systems Engineer
 
-<div align="center" style="background:linear-gradient(135deg,#050505,#111826,#050505);padding:28px 18px;border:1px solid #1f2937;border-radius:18px;">
-	<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc0bzJxNm5sNHcwYmhxMHhnZ2YyY3BtaWt1NWFveDAydnBhbmpwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlBO7eyXzSZkJri/giphy.gif" width="360" alt="Radar animation" />
-	<p style="color:#f5f7ff;font-size:1.05rem;">Opérations discrètes en front & back · Lyon → Remote · Mission-ready en < 48h</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=200&section=header&text=RENAUD&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
-> Je design, code et déploie des architectures qui se chargent vite, scalent proprement et gardent un look furtif.
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_MISSIONS-00FF99?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCUS-EMBEDDED_SYSTEMS-blue?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-LYON%20/%20REMOTE-white?style=for-the-badge&logo=googlemaps&logoColor=red" />
+</div>
 
 ---
 
-### 📡 Mission Brief
-- Lead dev full-stack pour start-ups en phase d'accélération ou scale-up discrète.
-- Binôme produit/design pour transformer des wireframes en expériences cinématiques.
-- Mise en place d'outillage CI/CD + observabilité pour que chaque release reste sous radar.
+### 👨‍💻 À propos de moi
+Passionné par l'interaction entre le code et le hardware. Je me spécialise dans le **développement bas-niveau**, l'optimisation de performance et les systèmes temps réel (RTOS).
 
-### 🧰 Arsenal Tech (version stealth)
+Actuellement à la recherche d'une **Alternance, CDI ou CDD** dans le domaine de l'**Embarqué**.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38bdf8)
-![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=65a30d)
-![NestJS](https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=fb7185)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazon-aws&logoColor=fbbf24)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38bdf8)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=github-actions&logoColor=8b5cf6)
+> *« Si tu peux le rêver, tu peux le coder... surtout si c'est en C. »*
 
-### 🕹️ Opérations signature
+---
 
-| Opération | Mission | Stack furtive | Preuve |
-| --- | --- | --- | --- |
-| **Pulseboard** | NOC moderne : KPIs micro-services + RCA en live, alertes à faible bruit | Next.js, NestJS, Kafka, DynamoDB | [Voir la démo](https://pulseboard-demo.example.com) |
-| **Voyageur** | Plateforme travel multi-destinations avec pricing dynamique + caching géo | Remix, GraphQL, PostgreSQL, Redis | [Étude de cas](https://maximecini.com/voyageur) |
-| **CraftKit** | Design system isomorphe (web/native) + générateur de tokens synchronisés | Storybook, React Native, Turborepo | [Repo public](https://github.com/maximecini/craftkit) |
+### 🛠 L'Arsenal Technique
 
-<details>
-<summary>🛰️ Rappels visuels</summary>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=c,cpp,asm" /><br><b>Langages</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino" /><br><b>Systèmes</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,git" /><br><b>DevOps</b>
+    </td>
+  </tr>
+</table>
 
-![Pulseboard screenshot](https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=1600&q=80)
+---
 
-</details>
+### 🚀 Expéditions & Projets (Explorations Bas-Niveau)
 
-### 🗂️ Hangar complet
+Voici un aperçu de mes travaux, axés sur la maîtrise de la mémoire et des architectures système :
 
-| Projet | Mission | Tech | Statut |
-| --- | --- | --- | --- |
-| [maximecini](https://github.com/maximecini/maximecini) | README profil sous stéroïdes | Markdown, Shields | Actif |
-| [cub3d](https://github.com/maximecini/cub3d) | Raycasting style Wolfenstein + textures | C, MiniLibX | Stable |
-| [minishelle](https://github.com/maximecini/minishelle) | Shell POSIX (pipes, heredocs, signaux) | C, readline | En surveillance |
-| [philosophers](https://github.com/maximecini/philosophers) | Synchronisation fine threads/mutex | C, pthreads | Validé |
-| [pipex](https://github.com/maximecini/pipex) | Reproduction `cmd1 | cmd2` solide | C, Unix API | Field-tested |
-| [Piscine](https://github.com/maximecini/Piscine) | Fondamentaux 42 | C, Shell | Legacy |
-| [piscine_cpp](https://github.com/maximecini/piscine_cpp) | Modules C++98 (OO, templates, RTTI) | C++ | Actif |
-| [piscine_reload](https://github.com/maximecini/piscine_reload) | Révisions condensées des rushs | C | Stand-by |
-| [printf](https://github.com/maximecini/printf) | `ft_printf` bufferisé sans fuite | C | Stable |
-| [fil_de_fer](https://github.com/maximecini/fil_de_fer) | Wireframe isométrique (FDF) | C, MiniLibX | Live |
-| [push_swap](https://github.com/maximecini/push_swap) | Tri optimisé double piles | C, Algo | Performant |
-| [get_next_line](https://github.com/maximecini/get_next_line) | Lecture multi-FD non bloquante | C | Field-tested |
-| [libft](https://github.com/maximecini/libft) | Base camp de fonctions perso | C | Core |
+| Projet | Mission | Highlights Bas-Niveau | Stack |
+| :--- | :--- | :--- | :--- |
+| [**cub3d**](https://github.com/maximecini/cub3d) | Moteur 3D Raycasting | Algorithmes de rendu temps réel, gestion fine de la mémoire vive. | `C`, `MiniLibX` |
+| [**minishelle**](https://github.com/maximecini/minishelle) | Micro-Shell | Gestion des processus, signaux système, parsing de commandes complexes. | `C` |
+| [**philosophers**](https://github.com/maximecini/philosophers) | Problème de Concurrence | Multi-threading, Mutex, Deadlock prevention (crucial pour RTOS). | `C`, `Pthreads` |
+| [**pipex**](https://github.com/maximecini/pipex) | Pipeline Unix | Redirection de flux, gestion des file descriptors et fork. | `C` |
+| [**push_swap**](https://github.com/maximecini/push_swap) | Algorithmique de Tri | Optimisation de complexité sous contraintes de ressources (piles). | `C` |
+| [**printf**](https://github.com/maximecini/printf) | Lib Standard (Rebuild) | Parsing variadique et gestion de buffers. | `C` |
+| [**libft**](https://github.com/maximecini/libft) | Librairie C Custom | Recréation des fonctions fondamentales du système. | `C` |
+| [**get_next_line**](https://github.com/maximecini/get_next_line) | Lecture sur flux | Gestion dynamique de buffers et descripteurs de fichiers multi-instances. | `C` |
+| [**fil_de_fer**](https://github.com/maximecini/fil_de_fer) | Moteur Wireframe 3D | Projection isométrique et rendu graphique bas niveau. | `C`, `MiniLibX` |
+| [**piscine_cpp**](https://github.com/maximecini/piscine_cpp) | Programmation Objet | Maîtrise avancée du C++ (templates, polymorphisme). | `C++` |
+| [**piscine_reload**](https://github.com/maximecini/piscine_reload) | Révisions Systèmes | Consolidation des bases Unix et C. | `C` |
+| [**Piscine**](https://github.com/maximecini/Piscine) | Bootcamp 42 | Immersion intensive dans l'algorithmie et le Shell. | `C`, `Shell` |
 
-### 📡 QG & fréquences
+---
 
-- LinkedIn · [linkedin.com/in/maximecini](https://www.linkedin.com/in/maximecini)
-- Portfolio · [maximecini.com](https://maximecini.com)
-- Email · [hello@maximecini.com](mailto:hello@maximecini.com)
-
-### 📊 Télémetrie
+### 📊 Données de bord (Télémesure)
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximecini&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximecini&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=maximecini&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximecini&layout=compact&theme=tokyonight&hide_border=true" height="190" />
 </div>
 
-> Toujours partant pour discuter scale front, architectures hexagonales ou animations UI — en mode furtiste évidemment ⚡
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maximecini&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🔗 Initialiser la connexion
+Si vous avez un projet stimulant ou une opportunité en embarqué, n'hésitez pas !
+
+- **LinkedIn** : [linked.in/renaud](https://linkedin.com/in/renaud) *(à mettre à jour)*
+- **Portfolio** : [renaud.dev](https://renaud.dev) *(en cours de build)*
+- **Email** : `renaud[at]example.com`
+
+---
+
+<div align="center">
+  <sub>Dernière mise à jour du système : Janvier 2026. Code with ❤️ by Renaud.</sub>
+</div>
