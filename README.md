@@ -59,30 +59,30 @@ Ouvert à des opportunités en **France (Paris) et à l'International**.
 <table>
   <tr>
     <td width="50%">
-      <h4>🎮 <a href="https://github.com/maximecini/cub3d">cub3d</a></h4>
-      <b>Moteur Raycasting 3D</b>
-      <p>Algorithme de rendu temps réel à la Wolfenstein 3D. Gestion fine des textures et collisions, optimisation de la mémoire vive.</p>
-      <p><code>C</code> • <code>MiniLibX</code></p>
+      <h4>🐚 <a href="https://github.com/maximecini/minishelle">minishell v2</a></h4>
+      <b>Shell POSIX avancé</b>
+      <p>Version v2 avec parsing robuste, gestion des heredocs, expansion et signaux alignés POSIX.</p>
+      <p><code>C</code> • <code>readline</code></p>
     </td>
     <td width="50%">
-      <h4>🐚 <a href="https://github.com/maximecini/minishelle">minishelle</a></h4>
-      <b>Shell POSIX Mini</b>
-      <p>Micro-shell complet avec parsing de commandes complexes, pipes chaînés, redirections, heredocs et gestion des signaux système.</p>
-      <p><code>C</code> • <code>readline</code></p>
+      <h4>🗺️ <a href="https://github.com/maximecini/fil_de_fer">fil_de_fer (FDF)</a></h4>
+      <b>Wireframe 3D</b>
+      <p>Rendu isométrique fluide, gestion des projections et zooms, optimisé pour rester réactif sur matériel modeste.</p>
+      <p><code>C</code> • <code>MiniLibX</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>🧠 <a href="https://github.com/maximecini/philosophers">philosophers</a></h4>
-      <b>Problème de Synchronisation</b>
-      <p>Simulation du problème des philosophes avec threads, mutexes et prévention de deadlock. Crucial pour comprendre la concurrence RTOS.</p>
-      <p><code>C</code> • <code>Pthreads</code></p>
+      <h4>🎮 <a href="https://github.com/maximecini/cub3d">cub3d</a></h4>
+      <b>Moteur Raycasting 3D</b>
+      <p>Raycasting façon Wolfenstein 3D, textures, collisions et budget mémoire optimisés.</p>
+      <p><code>C</code> • <code>MiniLibX</code></p>
     </td>
     <td width="50%">
-      <h4>⚙️ <a href="https://github.com/maximecini/pipex">pipex</a></h4>
-      <b>Pipeline Unix Rebuild</b>
-      <p>Reproduction fidèle de <code>cmd1 | cmd2</code> avec gestion robuste des file descriptors, fork et redirection flux.</p>
-      <p><code>C</code> • <code>Unix API</code></p>
+      <h4>📘 <a href="https://github.com/maximecini/piscine_cpp">piscine_cpp</a></h4>
+      <b>OOP et templates</b>
+      <p>Série d'exercices C++ couvrant héritage, polymorphisme, exceptions et RTTI pour des bases solides en OOP.</p>
+      <p><code>C++</code></p>
     </td>
   </tr>
 </table>
