@@ -29,11 +29,10 @@
 Je suis en recherche d'une **Alternance, CDI ou CDD** en développement embarqué.
 
 Spécialités :
-- 🧿 **Low-Level Development** : C, C++, Assembly
-- 🧵 **Concurrency & Synchronization** : Pthreads, Mutex, Condition Variables
-- 🔌 **Systems Architecture** : Unix/Linux kernels, RTOS, Real-time systems
-- 💾 **Memory Management** : Buffer optimization, heap fragmentation, FD mastery
-- 🤝 **Performance Tuning** : Algorithm optimization under resource constraints
+- 🧿 **Programming language** : C, C++, PHP, JavaScript, HTML, CSS
+- 🧵 **Framework** : Angular, Symfony, Node.Js, Codeligneteur, Smarty
+- 🔌 **Systems Architecture** : Unix/Linux kernels, Git
+- 💾 **Memory Management** : Modelisation BDD, UML, Architecture logicielle, SQL, NoSQL
 
 Ouvert à des opportunités en **France (Paris) et à l'International**.
 
@@ -45,7 +44,7 @@ Ouvert à des opportunités en **France (Paris) et à l'International**.
 
 | **Langages** | **Systèmes** | **Outils** |
 |:---:|:---:|:---:|
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![ASM](https://img.shields.io/badge/x86_ASM-005A9C?style=flat&logo=asm&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22032?style=flat&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-0A1428?style=flat&logo=gnu&logoColor=white) ![Valgrind](https://img.shields.io/badge/Valgrind-0A1428?style=flat&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![PHP](https://img.shields.io/badge/x86_ASM-005A9C?style=flat&logo=asm&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22032?style=flat&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/GDB-0A1428?style=flat&logo=gnu&logoColor=white) ![Bash](https://img.shields.io/badge/Valgrind-0A1428?style=flat&logoColor=white) |
 
 </div>
 
